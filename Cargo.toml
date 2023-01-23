@@ -6,7 +6,7 @@ description = "The Web1337 library to use with KLYNTAR"
 
 keywords = ["klyntar","web3", "web1337"]
 
-readme="README.md"
+readme="./README.md"
 
 license = "Apache-2.0"
 license-file = "LICENSE.md"
